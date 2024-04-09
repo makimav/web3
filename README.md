@@ -3,7 +3,7 @@
 ```js
 var projectId = "projectID"; //Here you can get your project ID: https://cloud.walletconnect.com/?utm_source=website&utm_medium=docs&utm_campaign=walletconnectdocs
 
-var ws, userId, $account, wagmiConfig, oldStatus; //Some imports to use web3
+var $account, wagmiConfig; //Some imports to use web3
 
 var address = "Your wallet address"; //Your wallet address
 
