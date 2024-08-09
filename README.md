@@ -1,4 +1,4 @@
-You can import the script via the client: `<script src="https://web3.makima.dev/web3modal.js" defer></script>`
+You can import the script via the client: `<script src="https://makimav.github.io/web3/web3modal.js" defer></script>`
 
 And then you can use global variables like `sendTransaction`, `getAccount`, `defaultWagmiConfig`, `reconnect`, `createWeb3Modal`, `polygon`, etc.
 Also there's `BigNumber` library which you can also use for calculating WEI.
